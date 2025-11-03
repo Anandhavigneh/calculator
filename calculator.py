@@ -13,7 +13,7 @@ def divide(x,y):
 
 #GETTING CHOICES FROM THE USER
 
-print("1.addition \n2.subtraction \n3.multiplication \n4.division\n\n")
+print("1.addition \n2.subtraction \n3.multiplication \n4.division\n")
 choices=int(input("enter the number 1,2,3,4: \n"))
 
 #GETTING INPUT FROM THE USER
